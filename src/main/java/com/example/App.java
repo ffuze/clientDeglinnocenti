@@ -1,9 +1,6 @@
 package com.example;
 
 import java.io.IOException;
-import java.net.Socket;
-
-import com.Client;
 
 /**
  * Hello world!
